@@ -21,7 +21,7 @@
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/1.jpg" alt="Image1" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -30,13 +30,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/2.jpg" alt="Image2" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -45,13 +46,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/3.jpg" alt="Image3" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -60,13 +62,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/4.jpg" alt="Image4" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -75,13 +78,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/5.jpg" alt="Image5" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -90,13 +94,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/6.jpg" alt="Image6" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -105,13 +110,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/7.jpg" alt="Image7" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -120,13 +126,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/8.jpg" alt="Image8" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -135,13 +142,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/9.jpg" alt="Image9" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -150,13 +158,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/10.jpg" alt="Image10" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -165,13 +174,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/11.jpg" alt="Image11" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -180,13 +190,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/12.jpg" alt="Image12" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -195,13 +206,14 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 					<img class="img-fluid" src="img/slider/13.jpg" alt="Image13" />
-					<div
+	 <!-- 				<div
 						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
 					>
 						<div class="p-3" style="max-width: 700px;">
@@ -210,7 +222,8 @@
 							</h4>
 							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
 						</div>
-					</div>
+					</div> 
+ -->
 					<li class="glide__slide">
 						<div class="carousel-item carousel-img-fit active" style="height: 450px;">
 							<img class="img-fluid" src="img/slider/14.jpg" alt="Image14" />

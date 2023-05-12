@@ -13,21 +13,29 @@
     </div>
     <div class="col-lg-4 text-center text-lg-right">
         <div class="d-inline-flex align-items-center">
-            <a class="text-dark px-2" href="https://www.facebook.com/profile.php?id=100031538726278" target="_blank">
-                <i class="fab fa-facebook-f"></i>
+            <a class="text-dark topbar-connect" href="https://www.facebook.com/profile.php?id=100031538726278" target="_blank">
+                <i class="fab fa-facebook-f" style="color: #3b5998; font-weight:bold; font-size:1rem">acebook</i>
             </a>
-            <a href="tel:+905395798879">+90 539 579 88 79</a>
+            <a target="_blank" style="color: #008000; font-size: 1.4rem;" class="mx-2 .topbar-connect" 
+            href="https://api.whatsapp.com/send?phone=%2B905395798879&data=AWDDQkZqNfMAOyFXm2-9EedZw4UJLGhGiRMdrkKlZNsejw7qOhlmPZaOh_s7xvwOvi6kZXVs9Pq_ZWClkfqDgtaFODYvLLruP8OeiNsBhzdf0bEQtCb5keEL3KZ29fbXLNlG0HkzvoVNqLcZaZVKEwZxjJONHFjHbq09hH9aNPTlPJ6BgQKbAO69O31hQlNJHWy2pD0HwBJH0tc6o26LBTkGmTmIhvET9AhPP6Svl_VhTgqotbm6dbo6bA1jYUokqOJ-ABcfBc4wItefaZH7PynTGaBcyNOzc-V7BUykqmzbrmY&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR2ODK4DFxfm73lPq7hpOyMxUjs4OAaBzu3O2jzoCLTT3GykDGwxNaS6ifk">
+                <i class="fab fa-whatsapp-square"></i>
+            </a>
+            <a class="mx-1 .topbar-connect" style="min-width: 30%;" href="tel:+902124611538">0212 461 15 38</a>
+            <a class="ml-1 .topbar-connect" style="min-width: 30%;" href="tel:+905395798879">0539 579 88 79</a>
+  
         </div>
     </div>
 </div>
 <div class="row align-items-center py-3 px-xl-5">
     <div class="col-lg-3 d-none d-lg-block">
         <a href="/#2" class="text-decoration-none">
-            <h1 class="m-0 display-5 font-weight-semi-bold">
-                <!-- <span class="text-primary font-weight-bold border px-3 mr-1">E</span> --> 
-                <img src="/img/icon-3.png" style="width: 3.2rem;" alt="Elitaş Logo">
+            <img src="/img/elitas-main.svg" style="width: 100%;" alt="Elitaş Logo">
+            <!-- <h1 class="m-0 display-5 font-weight-semi-bold">
+                <span></span>
+                 <span class="text-primary font-weight-bold border px-3 mr-1">E</span>
+            
                 Elitaş
-            </h1>
+            </h1> -->
         </a>
     </div>
     <div class="col-lg-6 col-6 text-left">
