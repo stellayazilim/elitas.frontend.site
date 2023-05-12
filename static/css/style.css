@@ -180,6 +180,12 @@ a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+
+.topbar-connect:hover{
+  background-color: var(--littlesoftblue);
+
+}
+
 pre,
 code,
 kbd,
@@ -6184,23 +6190,23 @@ button.bg-dark:focus {
 }
 
 .border {
-  border: 1px solid var(--verysoftblue); !important;
+  border: 1px solid var(--verysoftblue)  !important;
 }
 
 .border-top {
-  border-top: 1px solid var(--verysoftblue); !important;
+  border-top: 1px solid var(--verysoftblue)  !important;
 }
 
 .border-right {
-  border-right: 1px solid var(--verysoftblue); !important;
+  border-right: 1px solid var(--verysoftblue)  !important;
 }
 
 .border-bottom {
-  border-bottom: 1px solid var(--verysoftblue); !important;
+  border-bottom: 1px solid var(--verysoftblue)  !important;
 }
 
 .border-left {
-  border-left: 1px solid var(--verysoftblue); !important;
+  border-left: 1px solid var(--verysoftblue)  !important;
 }
 
 .border-0 {
@@ -9274,7 +9280,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: var(--verysoftblue); !important;
+  color: var(--verysoftblue)  !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
