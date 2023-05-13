@@ -2,7 +2,9 @@
 	import Sidemenu from '$lib/components/sidemenu/sidemenu.svelte';
 	import Carousel from '$lib/components/home/carousel.svelte';
 	import DropdownBar from '$lib/components/dropdown-bar/drop-down-bar.svelte';
+	
 	import { page } from '$app/stores';
+
 </script>
 
 <div class="container-fluid mb-5">

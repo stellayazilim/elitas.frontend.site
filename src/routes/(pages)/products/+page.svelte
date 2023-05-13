@@ -2,13 +2,14 @@
 	import EveryProduct from '$lib/components/product/every-product.svelte';
 	import ShopSidebar from '$lib/components/product/shop-sidebar.svelte';
 	export let data: import('./$types').PageData;
+
 </script>
 
 <!-- Shop Start -->
 <div class="container-fluid pt-5">
 	<div class="row px-xl-5">
 		<!-- Shop Sidebar Start -->
-		<ShopSidebar />
+		<ShopSidebar categories={data.categories} />
 		<!-- Shop Sidebar End -->
 
 		<!-- Shop Product Start -->

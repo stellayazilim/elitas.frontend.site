@@ -1,6 +1,6 @@
 <script>
 	import { slide } from 'svelte/transition';
-	import { products } from '$lib/components/product/productsWithCategories';
+	import { page } from '$app/stores';
 </script>
 
 <div
@@ -9,7 +9,7 @@
 	in:slide={{ duration: 900 }}
 	out:slide={{ duration: 500 }}
 >
-	{#each products as item}
+	{#each $page.data.categories as item}
 		<a href="/products#{item.slug}" class="nav-item nav-link">{item.category}</a>
 	{/each}
 </div>

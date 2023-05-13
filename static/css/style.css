@@ -179,7 +179,9 @@ a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
 }
-
+.topbar-connect{
+  background-color: var(--verysoftblue);
+}
 
 .topbar-connect:hover{
   background-color: var(--littlesoftblue);
@@ -9531,7 +9533,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .section-title span {
   position: relative;
-  background: var(--white)fff;
+  background: var(--white);
   z-index: 1;
 }
 

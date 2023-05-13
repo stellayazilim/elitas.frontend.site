@@ -3,6 +3,7 @@
 
 	/* Dropdown start */
 
+
 	let width: number;
 	let isOpen = true;
 
@@ -18,10 +19,8 @@
 	<a href="/#2" class="text-decoration-none d-block d-lg-none">
 		<h1 class="m-0 display-5 font-weight-semi-bold">
 			<!-- <span class="text-primary font-weight-bold border px-3 mr-1">E</span> -->
-			<img src="/img/elitas-main.svg" style="width: 8rem;" alt="Elitaş Logo">
-			
+			<img src="/img/elitas-main.svg" style="width: 8rem;" alt="Elitaş Logo" />
 		</h1>
-		
 	</a>
 	<button
 		type="button"

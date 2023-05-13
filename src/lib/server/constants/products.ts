@@ -18,7 +18,7 @@ export interface ICategories {
 
 export const products: ICategories[] = [
 	{
-		category: 'Buhar Kazansaları',
+		category: 'Buhar Kazanları',
 		slug: 'buhar',
 		items: [
 			{
