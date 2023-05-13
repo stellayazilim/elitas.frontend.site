@@ -16,7 +16,9 @@
 				<div
 					class="card-header product-img position-relative overflow-hidden bg-transparent border height-contain p-0"
 				>
-					<img class="img-fluid w-100 h-100" src={item.img?.src} alt={item.img?.src} />
+					
+					<img class="img-fluid w-100 h-100" src={item.img?.src || "/img/404/notfound.png"} alt={item.img?.src} />
+				
 				</div>
 				<div class="card-body border-left border-right border text-center p-0 pt-4 pb-3">
 					<h6 class="text-truncate mb-3">{item.name}</h6>

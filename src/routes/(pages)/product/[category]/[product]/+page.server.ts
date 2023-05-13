@@ -8,7 +8,7 @@ export const load: ServerLoad = (({ params }) => {
 		.find((item) => item.slug == category)
 		?.items.find((item) => item.slug == product);
 
-	if (item == undefined) throw error(404, 'Urun Bulunamadi');
+	if (item == undefined) throw error(404, 'Ürün Bulunamadı');
 	return {
 		pageName: 'Ürün',
 		item

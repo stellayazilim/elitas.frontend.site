@@ -10,8 +10,7 @@
 				</h1>
 			</a>
 			<p>
-				dolorebb erat dolor sit lorem vero amet. Sed sit lorem magna, ipsum no sit erat lorem et
-				magna ipsum dolore amet erat.
+				Kalite asla tesadüf değildir, sürekli bir çabayı gerektirir.
 			</p>
 			<p class="mb-2">
 				<i class="fa fa-map-marker-alt text-primary mr-3" />
@@ -63,7 +62,7 @@
 						<div class="form-group">
 							<input
 								type="email"
-								class="form-control border-0 py-4"
+								class="form-control border-1 py-4"
 								placeholder="E-posta adresiniz"
 								required={true}
 							/>
