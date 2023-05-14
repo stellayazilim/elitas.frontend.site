@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
+    import Backtotop from '$lib/components/common/backtotop.svelte';
 </script>
 
 <!-- Shop Detail Start -->
@@ -141,3 +142,4 @@
 	</div>
 </div>
 <!-- Shop Detail End -->
+<Backtotop/>
