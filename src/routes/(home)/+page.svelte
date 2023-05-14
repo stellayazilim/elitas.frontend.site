@@ -1,7 +1,9 @@
 <script lang="ts">
 	import CategoryCard from '$lib/components/home/categoryCard.svelte';
 	import type { PageData } from './$types';
+    import Backtotop from '$lib/components/common/backtotop.svelte';
 	export let data: PageData;
+    
 </script>
 
 <!-- Categories Start -->
@@ -75,4 +77,6 @@
  Vendor End -->
 
 <!-- Back to Top -->
-<a href="/#2" class="btn btn-primary back-to-top"><i class="fa fa-angle-double-up" /></a>
+ <Backtotop/>
+
+

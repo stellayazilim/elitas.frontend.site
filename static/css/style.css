@@ -3,8 +3,8 @@
   --elitasblue: #070788;
   --elistasblue-hover: #141b84;
   --softblue: #4949d3;
-  --littlesoftblue: rgba(0, 123, 255, 0.2);
-  --verysoftblue: rgba(10, 128, 254, 0.07);
+  --littlesoftblue: #BEDEFF;
+  --verysoftblue: #EEF6FF;
   --blue: rgb(0, 123, 255);
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -99,6 +99,7 @@ address {
   margin-bottom: 1rem;
   font-style: normal;
   line-height: inherit;
+  
 }
 .kalin-kenarlik {
   font-weight: bolder;
@@ -4437,6 +4438,9 @@ input[type="button"].btn-block {
   background-color: rgba(0, 0, 0, 0.03);
   border-top: 1px solid rgba(0, 0, 0, 0.125);
 }
+.card-footer a {
+  line-height: 2; /* veya istediğiniz herhangi bir değer */
+}
 
 .card-header-tabs {
   margin-right: -0.625rem;
@@ -6193,6 +6197,10 @@ button.bg-dark:focus {
 
 .border {
   border: 1px solid var(--verysoftblue)  !important;
+}
+.product-title-border {
+  border: 1px solid var(--littlesoftblue)  !important;
+  border-radius: 4px;
 }
 
 .border-top {
@@ -9533,7 +9541,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .section-title span {
   position: relative;
-  background: var(--white);
+  background: var(--verysoftblue);
   z-index: 1;
 }
 
@@ -9595,7 +9603,7 @@ a.text-dark:hover, a.text-dark:focus {
   list-style-type: none;
 }
 
-.back-to-top {
+/* .back-to-top {
   position: fixed;
   display: none;
   right: 30px;
@@ -9612,8 +9620,25 @@ a.text-dark:hover, a.text-dark:focus {
     transform: translateY(-15px);
   }
 }
+ */
+ .back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.3s linear;
+}
 
+.back-to-top.show {
+  opacity: 1;
+}
 
+@media (max-height: 600px) {
+  .back-to-top {
+    bottom: 10px;
+  }
+}
 .bgWhite{
   background-color: var(--white) !important;
 }

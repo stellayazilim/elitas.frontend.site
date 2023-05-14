@@ -6,8 +6,9 @@
 	//	export let products;
 </script>
 
+
 {#each products as product}
-	<div class="col-12 mb-3">
+	<div class="col-12 mb-3 mt-3 pb-3 pt-3 product-title-border">
 		<h3 class="font-weight-semi-bold ml-5" id={product?.slug}>{product.category}</h3>
 	</div>
 	{#each product.items as item}
@@ -26,7 +27,7 @@
 
 				<div class="card-footer d-flex justify-content-between bg-light border">
 					<!--  <a href="/{product.slug}/{item.name.toLowerCase().replace(/ /g, '-')}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-info mr-1"></i>Detayları Gör</a> -->
-					<a href="/product/{product.slug}/{item.slug}" class="btn btn-sm text-dark p-0 w-100"
+					<a href="/product/{product.slug}/{item.slug}" class="btn btn-sm text-dark p-0 w-100" 
 						><i class="fas fa-eye text-info mr-1" />Detayları Gör</a
 					>
 				</div>
@@ -44,4 +45,5 @@
 		height: 100%;
 		object-fit: contain;
 	}
+
 </style>

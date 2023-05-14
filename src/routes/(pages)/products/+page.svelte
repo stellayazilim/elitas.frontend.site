@@ -1,6 +1,7 @@
 <script lang="ts">
 	import EveryProduct from '$lib/components/product/every-product.svelte';
 	import ShopSidebar from '$lib/components/product/shop-sidebar.svelte';
+	import Backtotop from '$lib/components/common/backtotop.svelte';
 	export let data: import('./$types').PageData;
 
 </script>
@@ -51,3 +52,6 @@
 	</div>
 </div>
 <!-- Shop End -->
+
+
+<Backtotop/>
