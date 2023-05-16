@@ -1,41 +1,28 @@
 <script>
+
 </script>
 
 <div class="container-fluid">
 	<div class="row bg-secondary py-2 px-xl-5">
-		<div class="col-lg-7 d-none d-lg-block ml-3" >
-			<address style="display: inline;" >
-				Güneştepe mah. Necip Fazıl Kısakürek Cd. No:102 <b>Güngören</b>
+		<div class="col-lg-6 d-flex align-items-center">
+			<address>
+			Güneştepe mah. Necip Fazıl Kısakürek Cd. No:102 <b>Güngören</b>
 			</address>
 		</div>
-		<div class="col-lg-4 text-center text-lg-right">
-			<div class="d-inline-flex align-items-center">
-				<a
-					class="text-dark topbar-connect"
-					href="https://www.facebook.com/profile.php?id=100031538726278"
-					target="_blank"
-				>
-					<i class="fab fa-facebook-f" style="color: #3b5998; font-weight:bold; font-size:1rem"
-						>acebook</i
-					>
-				</a>
-				<a
-					target="_blank"
-					style="color: #008000; font-size: 1.4rem;"
-					class="mx-2 topbar-connect"
-					href="https://api.whatsapp.com/send?phone=%2B905395798879&data=AWDDQkZqNfMAOyFXm2-9EedZw4UJLGhGiRMdrkKlZNsejw7qOhlmPZaOh_s7xvwOvi6kZXVs9Pq_ZWClkfqDgtaFODYvLLruP8OeiNsBhzdf0bEQtCb5keEL3KZ29fbXLNlG0HkzvoVNqLcZaZVKEwZxjJONHFjHbq09hH9aNPTlPJ6BgQKbAO69O31hQlNJHWy2pD0HwBJH0tc6o26LBTkGmTmIhvET9AhPP6Svl_VhTgqotbm6dbo6bA1jYUokqOJ-ABcfBc4wItefaZH7PynTGaBcyNOzc-V7BUykqmzbrmY&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR2ODK4DFxfm73lPq7hpOyMxUjs4OAaBzu3O2jzoCLTT3GykDGwxNaS6ifk"
-				>
-					<i class="fab fa-whatsapp-square" />
-				</a>
-				<a class="mx-2 topbar-connect" style="min-width: 30%;" href="tel:+902124611538"
-					>0212 461 15 38</a
-				>
-				<a class="mx-1 topbar-connect" style="min-width: 30%;" href="tel:+905395798879"
-					>0539 579 88 79</a
-				>
+		<div class="col-lg-5 text-center  text-lg-right">
+			<div class="d-inline-flex align-items-center justify-content-center">
+			<a class="text-dark topbar-connect" href="https://www.facebook.com/profile.php?id=100031538726278" target="_blank" rel="external">
+				<i class="fa-brands fa-square-facebook" style="color: #3b5998; font-weight:bold; font-size:1.4rem"></i>
+			</a>
+			<a target="_blank" rel="external" style="color: #008000; font-size: 1.4rem;" class="mx-2 topbar-connect" href="https://api.whatsapp.com/send?phone=%2B905395798879&data=AWDDQkZqNfMAOyFXm2-9EedZw4UJLGhGiRMdrkKlZNsejw7qOhlmPZaOh_s7xvwOvi6kZXVs9Pq_ZWClkfqDgtaFODYvLLruP8OeiNsBhzdf0bEQtCb5keEL3KZ29fbXLNlG0HkzvoVNqLcZaZVKEwZxjJONHFjHbq09hH9aNPTlPJ6BgQKbAO69O31hQlNJHWy2pD0HwBJH0tc6o26LBTkGmTmIhvET9AhPP6Svl_VhTgqotbm6dbo6bA1jYUokqOJ-ABcfBc4wItefaZH7PynTGaBcyNOzc-V7BUykqmzbrmY&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR2ODK4DFxfm73lPq7hpOyMxUjs4OAaBzu3O2jzoCLTT3GykDGwxNaS6ifk">
+				<i class="fa-brands fa-square-whatsapp"></i>
+			</a>
+			<a class="mx-2 topbar-connect" style="min-width: 30%;" href="tel:+902124611538">0212 461 15 38</a>
+			<a class="mx-1 topbar-connect" style="min-width: 30%;" href="tel:+905395798879">0539 579 88 79</a>
 			</div>
 		</div>
 	</div>
+
 	<div class="row align-items-center py-3 px-xl-5">
 		<div class="col-lg-3 d-none d-lg-block">
 			<a href="/" class="text-decoration-none">

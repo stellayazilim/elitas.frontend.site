@@ -2,7 +2,9 @@
 	import EveryProduct from '$lib/components/product/every-product.svelte';
 	import ShopSidebar from '$lib/components/product/shop-sidebar.svelte';
 	import Backtotop from '$lib/components/common/backtotop.svelte';
+
 	export let data: import('./$types').PageData;
+	
 
 </script>
 
@@ -21,7 +23,8 @@
 					<div class="d-flex align-items-center justify-content-between mb-4">
 						<form action="">
 							<div class="input-group">
-								<input type="text" class="form-control" placeholder="Search by name" />
+								<input type="text" class="form-control" placeholder="Search by name"  /> 
+								
 								<div class="input-group-append">
 									<span class="input-group-text bg-transparent text-primary">
 										<i class="fa fa-search" />

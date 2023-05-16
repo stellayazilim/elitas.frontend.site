@@ -3,36 +3,31 @@
 
 	export let products: ICategories[];
 
-	//	export let products;
+		
 </script>
 
 
 {#each products as product}
-	<div class="col-12 mb-3 mt-3 pb-3 pt-3 product-title-border">
-		<h3 class="font-weight-semi-bold ml-5" id={product?.slug}>{product.category}</h3>
-	</div>
-	{#each product.items as item}
-		<div class="col-lg-4 col-md-6 col-sm-12 pb-1">
-			<div class="card product-item border-0 mb-4">
-				<div
-					class="card-header product-img position-relative overflow-hidden bg-transparent border height-contain p-0"
-				>
-					<img class="img-fluid w-100 h-100" src={item.img?.src || "/img/404/notfound.png"} alt={item.img?.src} />
-				
-				</div>
-				<div class="card-body border-left border-right border text-center p-0 pt-4 pb-3">
-					<h6 class="text-truncate mb-3">{item.name}</h6>
-				</div>
-
-				<div class="card-footer d-flex justify-content-between bg-light border">
-					<!--  <a href="/{product.slug}/{item.name.toLowerCase().replace(/ /g, '-')}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-info mr-1"></i>Detayları Gör</a> -->
-					<a href="/product/{product.slug}/{item.slug}#_navbar" class="btn btn-sm text-dark p-0 w-100" 
-						><i class="fas fa-eye text-info mr-1" />Detayları Gör</a
-					>
-				</div>
-			</div>
-		</div>
-	{/each}
+  <div class="col-12 mb-3 mt-3 pb-3 pt-3 product-title-border">
+    <h3 class="font-weight-semi-bold ml-5" id={product?.slug}>{product.category}</h3>
+  </div>
+  {#each product.items as item}
+      <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+        <div class="card product-item border-0 mb-4">
+          <div class="card-header product-img position-relative overflow-hidden bg-transparent border height-contain p-0">
+            <img class="img-fluid w-100 h-100" src={item.img?.src || "/img/404/notfound.png"} alt={item.img?.src} />
+          </div>
+          <div class="card-body border-left border-right border text-center p-0 pt-4 pb-3">
+            <h6 class="text-truncate mb-3">{item.name}</h6>
+          </div>
+          <div class="card-footer d-flex justify-content-between bg-light border">
+            <a href="/product/{product.slug}/{item.slug}#_navbar" class="btn btn-sm text-dark p-0 w-100"
+              ><i class="fas fa-eye text-info mr-1"></i>Detayları Gör</a
+            >
+          </div>
+        </div>
+      </div>
+  {/each}
 {/each}
 
 <style>

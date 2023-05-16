@@ -5,8 +5,8 @@ export const navs = [
        url: "/products"},
     {   text: "Ürün",
        url: "/product"},
-    {  text: "Vizyon-Misyon",
-       url: "/vision-mission"},
+    {  text: "Hakkımızda",
+       url: "/aboutus"},
     {   text:"İletişim",
        url: "/contact"}
    ]
