@@ -23,7 +23,22 @@
       });
     });
   </script>
-  
+
+
+
+
+    <button 
+    class={`btn btn-primary back-to-top ${showButton ? 'show' : ''}`}
+    on:click={scrollToTop}
+    on:animationend={showButton ? fadeInButton : fadeOutButton}
+    >
+    <i class="fa fa-angle-double-up" />
+</button>
+
+
+
+
+
   <style>
     .back-to-top {
       position: fixed;
@@ -38,12 +53,4 @@
       opacity: 1;
     }
   </style>
-  
-  <button 
-        class={`btn btn-primary back-to-top ${showButton ? 'show' : ''}`}
-        on:click={scrollToTop}
-        on:animationend={showButton ? fadeInButton : fadeOutButton}
-        >
-        <i class="fa fa-angle-double-up" />
-    </button>
   

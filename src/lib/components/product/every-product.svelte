@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { ICategories } from 'lib/server/constants/products';
+	import type { ICategories } from '$lib/server/constants/products';
 
 	export let products: ICategories[];
 
@@ -17,7 +17,6 @@
 				<div
 					class="card-header product-img position-relative overflow-hidden bg-transparent border height-contain p-0"
 				>
-					
 					<img class="img-fluid w-100 h-100" src={item.img?.src || "/img/404/notfound.png"} alt={item.img?.src} />
 				
 				</div>
@@ -27,7 +26,7 @@
 
 				<div class="card-footer d-flex justify-content-between bg-light border">
 					<!--  <a href="/{product.slug}/{item.name.toLowerCase().replace(/ /g, '-')}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-info mr-1"></i>Detayları Gör</a> -->
-					<a href="/product/{product.slug}/{item.slug}" class="btn btn-sm text-dark p-0 w-100" 
+					<a href="/product/{product.slug}/{item.slug}#_navbar" class="btn btn-sm text-dark p-0 w-100" 
 						><i class="fas fa-eye text-info mr-1" />Detayları Gör</a
 					>
 				</div>

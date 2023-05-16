@@ -83,7 +83,7 @@
 				&copy; <a class="text-dark font-weight-semi-bold" href="https://www.elitasmakina.com"
 					>Elitaş Makina</a
 				>.Her hakkı saklıdır.
-				<a class="text-dark font-weight-semi-bold" href="https://google.com">Stella Yazılım</a> tarafından
+				<a class="text-dark font-weight-semi-bold" href="https:stellasoft.tech" target="_blank">Stella Yazılım</a> tarafından
 				kodlandı.
 			</p>
 		</div>

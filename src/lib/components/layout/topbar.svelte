@@ -27,10 +27,10 @@
 				>
 					<i class="fab fa-whatsapp-square" />
 				</a>
-				<a class="mx-1 topbar-connect" style="min-width: 30%;" href="tel:+902124611538"
+				<a class="mx-2 topbar-connect" style="min-width: 30%;" href="tel:+902124611538"
 					>0212 461 15 38</a
 				>
-				<a class="ml-1 topbar-connect" style="min-width: 30%;" href="tel:+905395798879"
+				<a class="mx-1 topbar-connect" style="min-width: 30%;" href="tel:+905395798879"
 					>0539 579 88 79</a
 				>
 			</div>

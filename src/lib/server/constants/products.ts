@@ -95,6 +95,7 @@ export const products: ICategories[] = [
 		items: [
 			{
 				name: 'Işıklı Balanserli Geniş',
+				slug: 'isikli-balanserli-genis',
 				url: '/#',
 				description: 'Geniş Isıtmasız Paskara',
 				explanation: '',
@@ -130,7 +131,7 @@ export const products: ICategories[] = [
 				slug: 'isikli-balanserli-kendinden-kazanli',
 				url: '/#',
 				description: 'Geniş Paskara',
-				explanation: '',
+				explanation: 'açıklama',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.png',
 					alt: ''
@@ -205,6 +206,7 @@ export const products: ICategories[] = [
 		items: [
 			{
 				name: 'Motorlu',
+				slug: 'motorlu1',
 				url: '/#',
 				description: 'Çakım Makinası',
 				explanation: '',
@@ -215,7 +217,7 @@ export const products: ICategories[] = [
 			},
 			{
 				name: 'Motorlu',
-				slug: 'motorlu',
+				slug: 'motorlu2',
 				url: '/#',
 				description: 'Çakım Makinası',
 				explanation: '',
@@ -243,6 +245,7 @@ export const products: ICategories[] = [
 		items: [
 			{
 				name: 'Masa Tipi',
+				slug: "masa-tipi",
 				url: '/#',
 				description: 'Leke Makinası',
 				explanation: '',
@@ -270,6 +273,7 @@ export const products: ICategories[] = [
 		items: [
 			{
 				name: 'Silter Süper Mini 1 Lt Manometreli',
+				slug: 'silter-supermini-1lt',
 				url: '/#',
 				description: 'Profesyonel Ütü',
 				explanation: '',
@@ -459,6 +463,7 @@ export const products: ICategories[] = [
 		items: [
 			{
 				name: 'Yan Dikiş Açma',
+				slug: 'yan-dikis-acma',
 				url: '/#',
 				description: 'Makinası',
 				explanation: '',
@@ -490,7 +495,7 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Kılçık',
+				name: 'Kılçık Temizleme',
 				slug: 'kilcik',
 				url: '/#',
 				description: 'Makinası',
