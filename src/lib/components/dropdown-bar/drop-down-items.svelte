@@ -4,7 +4,7 @@
 
 	export const navs = [
 		{ text: 'Anasayfa', url: '/' },
-		{ text: 'Ürünler', url: '/products' },
+		{ text: 'Katalog', url: '/products' },
 		{ text: 'Vizyon-Misyon', url: '/vision-mission' },
 		{ text: 'İletişim', url: '/contact' }
 	];

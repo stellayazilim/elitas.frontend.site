@@ -7,7 +7,7 @@ export const load = (async({
 	const {categories} = await parent()
 
 	return {
-		pageName: 'Ürünler',
+		pageName: 'Katalog',
 		products
 	};
 }) satisfies PageServerLoad;

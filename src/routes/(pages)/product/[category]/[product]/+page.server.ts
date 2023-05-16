@@ -10,7 +10,7 @@ export const load: ServerLoad = (({ params }) => {
 
 	if (item == undefined) throw error(404, 'Ürün Bulunamadı');
 	return {
-		pageName: 'Ürün',
+		pageName: 'Ürün detay',
 		item
 	};
 }) as ServerLoad;

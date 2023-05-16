@@ -1,7 +1,7 @@
 export const navs = [
     {   text: "Anasayfa",
        url: "/"},
-    {   text: "Ürünler",
+    {   text: "Katalog",
        url: "/products"},
     {   text: "Ürün",
        url: "/product"},
