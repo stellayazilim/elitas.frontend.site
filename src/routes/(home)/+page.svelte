@@ -74,7 +74,7 @@
         </div>
     </div>
 </div>
- Vendor End -->
+ Vendor End  -->
 
 <!-- Back to Top -->
  <Backtotop/>
