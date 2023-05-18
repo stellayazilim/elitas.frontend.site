@@ -2,7 +2,7 @@
 :root {
   --elitasblue: #070788;
   --elistasblue-hover: #141b84;
-  --softblue: #4949d3;
+  --softblue: #4a4ad8;
   --littlesoftblue: #BEDEFF;
   --verysoftblue: #EEF6FF;
   --blue: rgb(0, 123, 255);
@@ -9612,3 +9612,4 @@ a.text-dark:hover, a.text-dark:focus {
 .span {
   color: black;
 }
+

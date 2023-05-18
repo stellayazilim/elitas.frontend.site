@@ -2,6 +2,7 @@
 	import CategoryCard from '$lib/components/home/categoryCard.svelte';
 	import type { PageData } from './$types';
     import Backtotop from '$lib/components/common/backtotop.svelte';
+	import Counterstats from '$lib/components/common/counterstats.svelte';
 	export let data: PageData;
     
 </script>
@@ -19,6 +20,10 @@
 	</div>
 </div>
 <!-- Categories End -->
+
+    <!-- counter start -->
+    <Counterstats/>
+<!-- counter end -->
 
 <!-- Subscribe Start -->
 <div class="container-fluid bg-secondary">
