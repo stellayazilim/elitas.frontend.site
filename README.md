@@ -1,5 +1,5 @@
 
-![PageSpeed Badge](https://img.shields.io/badge/Performance-90%25-brightgreen)](https://developers.google.com/speed/pagespeed/insights/?url=https://elitasmakina.com)
+![PageSpeed Badge](https://img.shields.io/badge/Performance-90%25-brightgreen)
 
 
 # create-svelte
