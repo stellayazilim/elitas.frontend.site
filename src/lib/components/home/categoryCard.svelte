@@ -18,7 +18,7 @@
 	<div class="cat-item d-flex flex-column border mb-4" style="padding: 20px;">
 		<p class="text-right">{items?.length} ürün</p>
 		<a
-			href="/products/#{slug}"
+			href="/products/#{slug}" aria-label="{productOrCategoryName}"
 			class="cat-img position-relative overflow-hidden height-contain mb-3"
 		>
 			{#if items[0]?.img?.src}
