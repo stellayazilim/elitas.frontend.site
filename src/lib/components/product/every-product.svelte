@@ -32,9 +32,9 @@
 					/>
 				</div>
 				<div class="card-body border-left border-right border text-center p-0 pt-4 pb-3">
-					<span class="text-truncate mb-3">
+					<h6 class="text-truncate mb-3">
 						{item.name}
-					</span>
+					</h6>
 				</div>
 				<div class="card-footer d-flex justify-content-between bg-light border">
 					<a	aria-label="{item.name}-bağlantısı"
@@ -60,12 +60,5 @@
 		height: 100%;
 		object-fit: contain;
 	}
-	span {
-		margin-top: 0;
-		margin-bottom: 0.5rem;
-		font-weight: 500;
-		line-height: 1.2;
-		color: var(--dark);
-		font-size: 1.3rem;
-	}
+
 </style>

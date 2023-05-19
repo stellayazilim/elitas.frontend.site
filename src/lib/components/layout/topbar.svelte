@@ -29,7 +29,7 @@
 		<div class="col-lg-3 d-none d-lg-block">
 			<a href="/" class="text-decoration-none">
 				<h1>
-					<img src="/img/elitas-main.svg" style="width: 80%; height: auto;" width=80%; height=auto; alt="Elitaş Logo" />
+					<img src="/img/elitas-main.svg" style="width: 80%; height: auto;" width="340" height="90" alt="Elitaş Logo" />
 				</h1>
 			</a>
 		</div>
