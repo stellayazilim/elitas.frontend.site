@@ -60,12 +60,5 @@
 		height: 100%;
 		object-fit: contain;
 	}
-	span {
-		margin-top: 0;
-		margin-bottom: 0.5rem;
-		font-weight: 500;
-		line-height: 1.2;
-		color: var(--dark);
-		font-size: 1.3rem;
-	}
+
 </style>
