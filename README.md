@@ -1,3 +1,6 @@
+![GitHub PageSpeed](https://api.speedbadge.io/v1?url=elitasmakina.com&strat=desktop&showStratLabel=true)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).

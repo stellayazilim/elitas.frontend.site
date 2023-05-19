@@ -19,13 +19,13 @@
 		<p class="text-right">{items?.length} ürün</p>
 		<a
 			href="/products/#{slug}" aria-label="{productOrCategoryName}"
-			class="cat-img position-relative overflow-hidden height-contain mb-3"
+			class="cat-img position-relative overflow-hidden height-contain mb-3 "
 		>
 			{#if items[0]?.img?.src}
-				<img class="img-fluid" src={items[0]?.img?.src} alt={items[0]?.img?.alt} />
+				<img class="img-fluid"  src={items[0]?.img?.src} alt={items[0]?.img?.alt} />
 			{/if}
 		</a>
-		<a href="/products/#{slug}" class="text-decoration-none">
+		<a href="/products/#{slug}" class="text-decoration-none text-center">
 			<span class="font-weight-semi-bold m-0">
 				{productOrCategoryName || ''}
 			</span>
