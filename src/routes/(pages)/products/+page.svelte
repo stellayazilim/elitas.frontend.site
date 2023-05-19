@@ -10,7 +10,8 @@
 
  
 </script>
-
+<meta name="keywords" content="buharlı ütü makineleri, buhar kazanları, paskaralar, transfer baskı presleri, çakım makinaları, leke temizleme makinaları, silter ütü grubu, mal taşıma arabaları, kalite kontrol masaları, buharlı ütü makinası, baskı presi, çakım makinası, leke temizleme makinası, mal taşıma arabası, kalite kontrol masası">
+	<section class="p-0 m-0"  id="products">
 <!-- Shop Start -->
 <div class="container-fluid pt-2">
 	<div class="row px-xl-5">
@@ -49,7 +50,7 @@
 </div>
 <!-- Shop End -->
 
-
+</section>
 <Backtotop/>
 
 

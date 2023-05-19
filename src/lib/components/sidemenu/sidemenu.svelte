@@ -17,7 +17,7 @@
 			data-toggle="collapse"
 			style="height: 65px; margin-top: -1px; padding: 0 30px;"
 		>
-			<h6 class="m-0 text-white kalin-kenarlik">Kategoriler</h6>
+			<span class="m-0 text-white kalin-kenarlik">Kategoriler</span>
 			<i class="fa fa-angle-down text-dark" />
 		</div>
 		<nav
@@ -31,3 +31,11 @@
 		</nav>
 	</aside>
 
+<style>
+	span {
+
+		font-size: 1.3rem;
+		font-weight: bolder;
+		color: var(--dark) ;
+		}
+</style>
