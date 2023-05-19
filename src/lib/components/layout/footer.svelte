@@ -71,15 +71,3 @@
 </footer>
 
 <!-- Footer End -->
-
-
-<style>
-	span{
-		margin-bottom: 0.5rem!important;
-		font-weight: 700!important;
-		line-height: 1.2!important;
-		color: var(--dark)!important;
-		font-size: 1.25rem!important;
-		margin-top: 0!important;
-	}
-</style>
