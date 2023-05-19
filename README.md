@@ -1,4 +1,4 @@
-![GitHub PageSpeed](https://api.speedbadge.io/v1?url=elitasmakina.com&strat=desktop&showStratLabel=true)
+[![PageSpeed Badge](https://img.shields.io/badge/Performance-98%25-brightgreen)](https://pagespeed.web.dev/analysis/https-elitasmakina-com/o0pcunxo7t?form_factor=desktop)
 
 
 # create-svelte
