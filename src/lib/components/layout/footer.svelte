@@ -27,7 +27,7 @@
 					</div>
 				</div>
 				<div class="col-md-5 mb-3">
-					<span class="font-weight-bold text-dark mb-4">Bülten</span>
+					<h5 class="font-weight-bold text-dark mb-4">Bülten</h5>
 					<form action="">
 						<div class="form-group">
 							<input
@@ -72,14 +72,3 @@
 
 <!-- Footer End -->
 
-
-<style>
-		span {
-		margin-top: 0;
-		margin-bottom: 0.5rem;
-		font-weight: 500;
-		line-height: 1.2;
-		color: var(--dark);
-		font-size: 1.3rem;
-		}
-</style>
