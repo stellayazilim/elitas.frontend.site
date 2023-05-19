@@ -25,7 +25,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #FFFFFF;
-  --dark: #181818;
+  --dark: #1a1a1a;
   --semidark: #626262;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -42,7 +42,7 @@
   box-sizing: border-box;
 }
 
-html {
+html { 
   font-family: var(--font-family-sans-serif);
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -286,6 +286,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
+  appearance: button;
   -webkit-appearance: button;
 }
 
@@ -351,6 +352,7 @@ progress {
 
 [type="search"] {
   outline-offset: -2px;
+  appearance: none;
   -webkit-appearance: none;
 }
 
@@ -4436,12 +4438,14 @@ input[type="button"].btn-block {
 }
 
 .card-footer {
-  padding: 0.75rem 1.25rem;
+
   background-color: rgba(0, 0, 0, 0.03);
   border-top: 1px solid rgba(0, 0, 0, 0.125);
 }
 .card-footer a {
   line-height: 2; /* veya istediğiniz herhangi bir değer */
+  padding: 0.75rem 1.25rem;
+  display: block;
 }
 
 .card-header-tabs {
@@ -9344,7 +9348,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 a.text-dark:hover, a.text-dark:focus {
-  color: black !important;
+  color: var(--dark) !important;
 }
 
 .text-body {

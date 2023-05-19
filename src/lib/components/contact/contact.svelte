@@ -7,13 +7,15 @@
 </script>
 
 <!-- Contact Start -->
-<div class="container-fluid pt-5">
-	<Contacttitle />
-	<Contactinvite {contactData} />
-	<div class="row px-xl-5">
-		<Contactform />
-
-		<Seeonmap />
+<section id="contact">
+	<div class="container-fluid pt-5">
+		<Contacttitle />
+		<Contactinvite {contactData} />
+		<div class="row px-xl-5">
+			<Contactform />
+	
+			<Seeonmap />
+		</div>
 	</div>
-</div>
+</section>
 <!-- Contact End -->

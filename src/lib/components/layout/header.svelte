@@ -5,7 +5,8 @@
 	$: filteredNavs = navs.find((nav) => nav.url == $page.url.pathname);
 </script>
 
-<div class="container-fluid bg-secondary mb-5" style="margin-top: -47px;" id="_navbar"> 
+<header>
+	<div class="container-fluid bg-secondary mb-5" style="margin-top: -47px;" id="_navbar"> 
 	<div
 		class="d-flex flex-column align-items-center justify-content-center"
 		style="min-height: 300px"
@@ -31,3 +32,4 @@
 
 	</div>
 </div>
+</header>

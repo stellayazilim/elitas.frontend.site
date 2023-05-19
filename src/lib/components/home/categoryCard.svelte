@@ -26,9 +26,9 @@
 			{/if}
 		</a>
 		<a href="/products/#{slug}" class="text-decoration-none">
-			<h5 class="font-weight-semi-bold m-0">
+			<span class="font-weight-semi-bold m-0">
 				{productOrCategoryName || ''}
-			</h5>
+			</span>
 		</a>
 	</div>
 </div>

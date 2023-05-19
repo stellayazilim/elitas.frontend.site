@@ -6,17 +6,19 @@
 		'Müşterilerimize en yüksek kalitede ve en inovasyonel ürünler sunmak, müşteri beklentilerini ve ihtiyaçlarını anlamaya odaklanmak, sürekli olarak teknolojik gelişmeleri takip etmek ve ütüleme işlemlerini kolaylaştırmak. Ayrıca, çevre dostu ürünler sunmak ve sürdürülebilir bir gelecek için sürekli olarak çalışmak. Müşteri memnuniyeti, mükemmel hizmet kalitesi ve çevre dostu ürünler ile pazar liderliğini korumak.';
 </script>
 
-<div class="container text-center py-3 my-5">
-	<h2 class="font-weight-semi-bold my-3">Hakkımızda</h2>
-	<p>
-		{aboutText}
-	</p>
-	<h2 class="font-weight-semi-bold my-3">Vizyonumuz</h2>
-	<p>
-		{visionText}
-	</p>
-	<h2 class="font-weight-semi-bold my-3">Misyonumuz</h2>
-	<p>
-		{missionText}
-	</p>
-</div>
+<section id="section-about">
+	<div class="container text-center py-3 my-5">
+		<h2 class="font-weight-semi-bold my-3">Hakkımızda</h2>
+		<p>
+			{aboutText}
+		</p>
+		<h2 class="font-weight-semi-bold my-3">Vizyonumuz</h2>
+		<p>
+			{visionText}
+		</p>
+		<h2 class="font-weight-semi-bold my-3">Misyonumuz</h2>
+		<p>
+			{missionText}
+		</p>
+	</div>
+</section>
