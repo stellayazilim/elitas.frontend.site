@@ -1,3 +1,7 @@
+
+![PageSpeed Badge](https://img.shields.io/badge/Performance-90%25-brightgreen)](https://developers.google.com/speed/pagespeed/insights/?url=https://elitasmakina.com)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
