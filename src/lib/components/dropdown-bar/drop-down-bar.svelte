@@ -24,6 +24,7 @@
 	</a>
 	<button
 		type="button"
+		aria-label="dropdown toggle button"
 		class="navbar-toggler"
 		data-toggle="collapse"
 		data-target="/navbarCollapse"

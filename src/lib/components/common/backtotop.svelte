@@ -27,7 +27,7 @@
 
 
 
-    <button 
+    <button  aria-label="back to top button"
     class={`btn btn-primary back-to-top ${showButton ? 'show' : ''}`}
     on:click={scrollToTop}
     on:animationend={showButton ? fadeInButton : fadeOutButton}

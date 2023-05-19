@@ -14,8 +14,8 @@
 
 {#each filteredProducts as product}
 	{#if product.items.length > 0}
-		<div class="col-12 mb-3 mt-3 pb-3 pt-3 product-title-border">
-			<h3 class="font-weight-semi-bold ml-5" id={product?.slug}>{product.category}</h3>
+		<div class="col-12 mb-3 mt-3 pb-2 pt-3 product-title-border">
+			<h3 class="font-weight-semi-bold ml-5 text-dark" id={product?.slug}>{product.category}</h3>
 		</div>
 	{/if}
 
@@ -37,9 +37,9 @@
 					</h6>
 				</div>
 				<div class="card-footer d-flex justify-content-between bg-light border">
-					<a
+					<a	aria-label="{item.name}-bağlantısı"
 						href="/product/{product.slug}/{item.slug}#_navbar"
-						class="btn btn-sm text-dark p-0 w-100"
+						class="btn btn-sm text-dark w-100"
 					>
 						<i class="fas fa-eye text-info mr-1" />Detayları Gör
 					</a>

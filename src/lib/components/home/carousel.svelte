@@ -20,259 +20,101 @@
 		<ul class="glide__slides">
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/1.jpg" alt="Image1" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/1.webp" alt="Image1" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/2.jpg" alt="Image2" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/2.webp" alt="Image2" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/3.jpg" alt="Image3" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/3.webp" alt="Image3" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/4.jpg" alt="Image4" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/4.webp" alt="Image4" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/5.jpg" alt="Image5" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/5.webp" alt="Image5" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/6.jpg" alt="Image6" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/6.webp" alt="Image6" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/7.jpg" alt="Image7" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/7.webp" alt="Image7" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/8.jpg" alt="Image8" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/8.webp" alt="Image8" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/9.jpg" alt="Image9" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/9.webp" alt="Image9" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/10.jpg" alt="Image10" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/10.webp" alt="Image10" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/11.jpg" alt="Image11" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/11.webp" alt="Image11" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/12.jpg" alt="Image12" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
+					<img class="img-fluid" src="img/slider/12.webp" alt="Image12" />
+	
 				</div>
 			</li>
 			<li class="glide__slide">
 				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-					<img class="img-fluid" src="img/slider/13.jpg" alt="Image13" />
-	 <!-- 				<div
-						class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-					>
-						<div class="p-3" style="max-width: 700px;">
-							<h4 class="text-light text-uppercase font-weight-medium mb-3">
-								Bilgi için iletişime geçin
-							</h4>
-							<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-						</div>
-					</div> 
- -->
-					<li class="glide__slide">
-						<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-							<img class="img-fluid" src="img/slider/14.jpg" alt="Image14" />
-							<div
-								class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-							>
-								<div class="p-3" style="max-width: 700px;">
-									<h4 class="text-light text-uppercase font-weight-medium mb-3">
-										Bilgi için iletişime geçin
-									</h4>
-									<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-								</div>
-							</div>
-							<li class="glide__slide">
-								<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-									<img class="img-fluid" src="img/slider/15.jpg" alt="Image15" />
-									<div
-										class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-									>
-										<div class="p-3" style="max-width: 700px;">
-											<h4 class="text-light text-uppercase font-weight-medium mb-3">
-												Bilgi için iletişime geçin
-											</h4>
-											<h3 class="display-4 text-white font-weight-semi-bold mb-4">Elitaş Makina</h3>
-										</div>
-									</div>
-									<li class="glide__slide">
-										<div class="carousel-item carousel-img-fit active" style="height: 450px;">
-											<img class="img-fluid" src="img/slider/16.jpg" alt="Image16" />
-											<div
-												class="carousel-caption d-flex flex-column align-items-center justify-content-center"
-											>
-												<div class="p-3" style="max-width: 700px;">
-													<h4 class="text-light text-uppercase font-weight-medium mb-3">
-														Bilgi için iletişime geçin
-													</h4>
-													<h3 class="display-4 text-white font-weight-semi-bold mb-4">
-														Elitaş Makina
-													</h3>
-												</div>
-											</div>
-										</div>
-									</li>
-								</div>
-							</li>
-						</div>
-					</li>
+					<img class="img-fluid" src="img/slider/13.webp" alt="Image13" />
+	
 				</div>
 			</li>
+			<li class="glide__slide">
+				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
+					<img class="img-fluid" src="img/slider/14.webp" alt="Image14" />
+	
+				</div>
+			</li>
+			<li class="glide__slide">
+				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
+					<img class="img-fluid" src="img/slider/15.webp" alt="Image15" />
+	
+				</div>
+			</li>
+			<li class="glide__slide">
+				<div class="carousel-item carousel-img-fit active" style="height: 450px;">
+					<img class="img-fluid" src="img/slider/16.webp" alt="Image16" />
+	
+				</div>
+			</li>
+		
 		</ul>
 	</div>
 	<!--    Carousel Controller -->

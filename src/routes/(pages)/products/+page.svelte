@@ -8,10 +8,6 @@
 	let searchArea: string;
 
 
-  	function colog() {
-	    console.log('Search Text:', searchArea);
-	  }
-	  
  
 </script>
 
@@ -29,16 +25,16 @@
 				<div class="col-12 pb-1">
 					<div class="d-flex align-items-center justify-content-between mb-4">
 						<form >
-							<div class="input-group">
+							<label class="input-group mb-0">
 								<input type="text" class="form-control" placeholder="Ada göre ara" 
-									bind:value={searchArea} on:input={colog}/> 
+									bind:value={searchArea}/> 
 								
 								<div class="input-group-append">
 									<span class="input-group-text bg-transparent text-primary">
 										<i class="fa fa-search" />
 									</span>
 								</div>
-							</div>
+							</label>
 						</form>
 					</div>
 				</div>
@@ -55,3 +51,13 @@
 
 
 <Backtotop/>
+
+
+<style>
+	.form-control:focus{
+		border-color: var(--semidark);
+	}
+	i{
+		cursor: pointer;
+	}
+</style>

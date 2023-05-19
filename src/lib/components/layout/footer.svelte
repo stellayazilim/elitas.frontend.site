@@ -1,5 +1,5 @@
 <!-- Footer Start -->
-<div class="container-fluid bg-secondary text-dark pt-3">
+<footer class="container-fluid bg-secondary text-dark pt-3">
 	<div class="row px-xl-5">
 		<div class="col-lg-6 col-md-12 mb-3 pr-3 pr-xl-5 px-4 pt-3">
 			<p class="mb-2">
@@ -55,7 +55,7 @@
 			</div>
 		</div>
 	</div>
-	<div class=" border-top border-light mx-xl-5 py-3">
+	<div class="border-top border-light mx-xl-5 py-3">
 		<div class=" px-xl-0">
 			<p class="mb-md-0 text-center text-md-left text-dark">
 				&copy; <a class="text-dark font-weight-semi-bold" href="https://www.elitasmakina.com">
@@ -68,6 +68,18 @@
 			</p>
 		</div>
 	</div>
-</div>
+</footer>
 
 <!-- Footer End -->
+
+
+<style>
+	span{
+		margin-bottom: 0.5rem!important;
+		font-weight: 700!important;
+		line-height: 1.2!important;
+		color: var(--dark)!important;
+		font-size: 1.25rem!important;
+		margin-top: 0!important;
+	}
+</style>

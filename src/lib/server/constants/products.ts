@@ -28,7 +28,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Kazanı',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/4-cikisli-buhar.png',
+					src: '/img/selfresize/4-cikisli-buhar.webp',
 					alt: ''
 				}
 			},
@@ -39,7 +39,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Kazanı',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/3-cikisli-buhar.png',
+					src: '/img/selfresize/3-cikisli-buhar.webp',
 					alt: ''
 				}
 			},
@@ -50,7 +50,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Kazanı',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/2-cikisli-buhar.png',
+					src: '/img/selfresize/2-cikisli-buhar.webp',
 					alt: ''
 				}
 			},
@@ -61,7 +61,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Jeneratörü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/dogalgazli-ce-belgeli.png',
+					src: '/img/selfresize/dogalgazli-ce-belgeli.webp',
 					alt: ''
 				}
 			},
@@ -72,7 +72,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Jeneratörü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/60-kw-buhar-jene.png',
+					src: '/img/selfresize/60-kw-buhar-jene.webp',
 					alt: ''
 				}
 			},
@@ -83,7 +83,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Jeneratörü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/30-kw-buhar-jene.png',
+					src: '/img/selfresize/30-kw-buhar-jene.webp',
 					alt: ''
 				}
 			}
@@ -100,7 +100,7 @@ export const products: ICategories[] = [
 				description: 'Geniş Isıtmasız Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/isikli-balanserli-genis-isitmasiz.png',
+					src: '/img/selfresize/isikli-balanserli-genis-isitmasiz.webp',
 					alt: ''
 				}
 			},
@@ -111,7 +111,7 @@ export const products: ICategories[] = [
 				description: 'Geniş Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/kendinden-kazanli-genis.png',
+					src: '/img/selfresize/kendinden-kazanli-genis.webp',
 					alt: ''
 				}
 			},
@@ -122,7 +122,7 @@ export const products: ICategories[] = [
 				description: 'Dar Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/isitmasiz-dar-paskara.png',
+					src: '/img/selfresize/isitmasiz-dar-paskara.webp',
 					alt: ''
 				}
 			},
@@ -133,7 +133,7 @@ export const products: ICategories[] = [
 				description: 'Geniş Paskara',
 				explanation: 'açıklama',
 				img: {
-					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.png',
+					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.webp',
 					alt: ''
 				}
 			},
@@ -144,7 +144,7 @@ export const products: ICategories[] = [
 				description: 'Dar Pullu Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/isikli-balanserli-dar-pullu.png',
+					src: '/img/selfresize/isikli-balanserli-dar-pullu.webp',
 					alt: ''
 				}
 			},
@@ -155,7 +155,7 @@ export const products: ICategories[] = [
 				description: 'Dar Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/kendinden-kaznali-dar.png',
+					src: '/img/selfresize/kendinden-kaznali-dar.webp',
 					alt: ''
 				}
 			}
@@ -172,7 +172,7 @@ export const products: ICategories[] = [
 				description: 'Transfer Baskı Presi',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/20-20-gezer-kafa.png',
+					src: '/img/selfresize/20-20-gezer-kafa.webp',
 					alt: ''
 				}
 			},
@@ -183,7 +183,7 @@ export const products: ICategories[] = [
 				description: 'Transfer Geniş Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/20-20-doner-kafa-transfer.png',
+					src: '/img/selfresize/20-20-doner-kafa-transfer.webp',
 					alt: ''
 				}
 			},
@@ -194,7 +194,7 @@ export const products: ICategories[] = [
 				description: 'Pres Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/40-50-tas-yapistirma.png',
+					src: '/img/selfresize/40-50-tas-yapistirma.webp',
 					alt: ''
 				}
 			}
@@ -211,7 +211,7 @@ export const products: ICategories[] = [
 				description: 'Çakım Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/motorl-cakim-makinasi.png',
+					src: '/img/selfresize/motorl-cakim-makinasi.webp',
 					alt: ''
 				}
 			},
@@ -222,7 +222,7 @@ export const products: ICategories[] = [
 				description: 'Çakım Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/motorlu-cakim-makinasi.png',
+					src: '/img/selfresize/motorlu-cakim-makinasi.webp',
 					alt: ''
 				}
 			},
@@ -233,7 +233,7 @@ export const products: ICategories[] = [
 				description: 'Çakım Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/elektrikli-cakim-makinesi.png',
+					src: '/img/selfresize/elektrikli-cakim-makinesi.webp',
 					alt: ''
 				}
 			}
@@ -250,7 +250,7 @@ export const products: ICategories[] = [
 				description: 'Leke Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/masa-tipi-leke.png',
+					src: '/img/selfresize/masa-tipi-leke.webp',
 					alt: ''
 				}
 			},
@@ -261,7 +261,7 @@ export const products: ICategories[] = [
 				description: 'Leke Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/dar-tipi-klasik-leke.png',
+					src: '/img/selfresize/dar-tipi-klasik-leke.webp',
 					alt: ''
 				}
 			}
@@ -278,7 +278,7 @@ export const products: ICategories[] = [
 				description: 'Profesyonel Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/silter-super-mini-1lt.png',
+					src: '/img/selfresize/silter-super-mini-1lt.webp',
 					alt: ''
 				}
 			},
@@ -289,7 +289,7 @@ export const products: ICategories[] = [
 				description: 'Profesyonel Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/magma-3bucuk.png',
+					src: '/img/selfresize/magma-3bucuk.webp',
 					alt: ''
 				}
 			},
@@ -300,7 +300,7 @@ export const products: ICategories[] = [
 				description: 'Profesyonel - 3,5 Lt',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/SPRMN-2035-super-mini.png',
+					src: '/img/selfresize/SPRMN-2035-super-mini.webp',
 					alt: ''
 				}
 			},
@@ -311,7 +311,7 @@ export const products: ICategories[] = [
 				description: 'Buharlı Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/silter-SPRMN-2005.png',
+					src: '/img/selfresize/silter-SPRMN-2005.webp',
 					alt: ''
 				}
 			},
@@ -322,7 +322,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Kazanlı Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/SPRMN-2030-Gazella.png',
+					src: '/img/selfresize/SPRMN-2030-Gazella.webp',
 					alt: ''
 				}
 			},
@@ -333,7 +333,7 @@ export const products: ICategories[] = [
 				description: 'Ütü Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/Potent-dar-masa-3bucuk-2135.png',
+					src: '/img/selfresize/Potent-dar-masa-3bucuk-2135.webp',
 					alt: ''
 				}
 			},
@@ -344,7 +344,7 @@ export const products: ICategories[] = [
 				description: 'Buhar Kazanlı Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/3bucuk--askida-SPRMN-2036.png',
+					src: '/img/selfresize/3bucuk--askida-SPRMN-2036.webp',
 					alt: ''
 				}
 			},
@@ -355,7 +355,7 @@ export const products: ICategories[] = [
 				description: 'Kazanlı Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/silter-bitsy-2035-ciftfircali.png',
+					src: '/img/selfresize/silter-bitsy-2035-ciftfircali.webp',
 					alt: ''
 				}
 			}
@@ -479,7 +479,7 @@ export const products: ICategories[] = [
 				description: 'Robotu',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/pantolon-sisirme.png',
+					src: '/img/selfresize/pantolon-sisirme.webp',
 					alt: ''
 				}
 			},
@@ -490,7 +490,7 @@ export const products: ICategories[] = [
 				description: 'Robotu',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/cift-kafa-iplik-temizleme.png',
+					src: '/img/selfresize/cift-kafa-iplik-temizleme.webp',
 					alt: ''
 				}
 			},
@@ -501,7 +501,7 @@ export const products: ICategories[] = [
 				description: 'Makinası',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/kilcik-makinasi.png',
+					src: '/img/selfresize/kilcik-makinasi.webp',
 					alt: ''
 				}
 			}
@@ -518,7 +518,7 @@ export const products: ICategories[] = [
 				description: 'Radyal Fan',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/silter-37220Y-potent-salganyoz.png',
+					src: '/img/selfresize/silter-37220Y-potent-salganyoz.webp',
 					alt: ''
 				}
 			},
@@ -529,7 +529,7 @@ export const products: ICategories[] = [
 				description: '',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/buhar-kazani-su-pompasi.png',
+					src: '/img/selfresize/buhar-kazani-su-pompasi.webp',
 					alt: ''
 				}
 			},
@@ -540,7 +540,7 @@ export const products: ICategories[] = [
 				description: 'Sanayi Tipi Hafif Ütü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/silter-stb-200G-buharli-el.png',
+					src: '/img/selfresize/silter-stb-200G-buharli-el.webp',
 					alt: ''
 				}
 			},
@@ -551,7 +551,7 @@ export const products: ICategories[] = [
 				description: 'Buharlı El Ütüsü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/stb-295-gazella-slim.png',
+					src: '/img/selfresize/stb-295-gazella-slim.webp',
 					alt: ''
 				}
 			},
@@ -562,7 +562,7 @@ export const products: ICategories[] = [
 				description: 'El Ütüsü',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/magma-buharli-el.png',
+					src: '/img/selfresize/magma-buharli-el.webp',
 					alt: ''
 				}
 			},
@@ -573,7 +573,7 @@ export const products: ICategories[] = [
 				description: '',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/leke-tabancasi.png',
+					src: '/img/selfresize/leke-tabancasi.webp',
 					alt: ''
 				}
 			},
@@ -584,7 +584,7 @@ export const products: ICategories[] = [
 				description: 'Paskara Kare Fan motor',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/paskara-kare-fan-motoru.png',
+					src: '/img/selfresize/paskara-kare-fan-motoru.webp',
 					alt: ''
 				}
 			},
@@ -595,7 +595,7 @@ export const products: ICategories[] = [
 				description: '',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/kazanli-utu-selenoid-valf.png',
+					src: '/img/selfresize/kazanli-utu-selenoid-valf.webp',
 					alt: ''
 				}
 			}

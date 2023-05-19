@@ -4,7 +4,7 @@
 
 <Header />
 
-<!-- Navbar End -->
+
 <main>
 	<slot />
 </main>
