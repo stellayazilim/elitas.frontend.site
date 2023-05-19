@@ -19,7 +19,7 @@
 	<a href="/" class="text-decoration-none d-block d-lg-none">
 		<h1 class="m-0 display-5 font-weight-semi-bold">
 			<!-- <span class="text-primary font-weight-bold border px-3 mr-1">E</span> -->
-			<img src="/img/elitas-main.svg" style="width: 9rem;" width="144" alt="Elitaş Logo" />
+			<img src="/img/elitas-main.svg" style="width: 9rem;" width="144"  alt="Elitaş Logo" />
 		</h1>
 	</a>
 	<button
