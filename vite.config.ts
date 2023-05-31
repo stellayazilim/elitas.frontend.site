@@ -8,7 +8,7 @@ const config: UserConfig = {
 	},
 	server: {
 		fs: {
-			allow: ["static/css/style.min.css"]
+			allow: ["static/css/style.css"]
 		}
 	}
 };
