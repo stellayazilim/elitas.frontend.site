@@ -7,7 +7,8 @@
 				Güneştepe mah. Necip Fazıl Kısakürek Cd. No:102 <b>Güngören/İSTANBUL</b>
 			</p>
 			<p class="mb-2"><i class="fa fa-envelope text-primary mr-3" />admin@elitasmakina.com</p>
-			<p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3" />+90 539 579 88 79</p>
+			<p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3" />+90 539 579 88 79</p>
+			<p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3" />0212 461 15 38</p>
 		</div>
 		<div class="col-lg-6 col-md-12 px-4 pt-3">
 			<div class="row">

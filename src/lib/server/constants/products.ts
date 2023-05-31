@@ -97,7 +97,7 @@ export const products: ICategories[] = [
 				name: 'Işıklı Balanserli Geniş',
 				slug: 'isikli-balanserli-genis',
 				url: '/#',
-				description: 'Geniş Isıtmasız Paskara',
+				description: 'Isıtmasız Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-genis-isitmasiz.webp',
@@ -131,7 +131,7 @@ export const products: ICategories[] = [
 				slug: 'isikli-balanserli-kendinden-kazanli',
 				url: '/#',
 				description: 'Geniş Paskara',
-				explanation: 'açıklama',
+				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.webp',
 					alt: ''
@@ -141,7 +141,7 @@ export const products: ICategories[] = [
 				name: 'Işıklı Balanserli Dar',
 				slug: 'isikli-balanserli-dar',
 				url: '/#',
-				description: 'Dar Pullu Paskara',
+				description: 'Pullu Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-dar-pullu.webp',
@@ -453,7 +453,11 @@ export const products: ICategories[] = [
 				slug: 'kanatli',
 				url: '/#',
 				description: 'Kalite Kontrol Masası',
-				explanation: ''
+				explanation: '',
+				img: {
+					src: '',
+					alt: ''
+				}
 			}
 		]
 	},
@@ -578,10 +582,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Paskara Kare Fan motoru',
+				name: 'Paskara Kare ',
 				slug: 'paskara-kare-fan-motoru',
 				url: '/#',
-				description: 'Paskara Kare Fan motor',
+				description: 'Fan motoru',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/paskara-kare-fan-motoru.webp',
