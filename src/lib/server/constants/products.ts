@@ -29,7 +29,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/4-cikisli-buhar.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -40,7 +40,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/3-cikisli-buhar.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -51,7 +51,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/2-cikisli-buhar.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -62,7 +62,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/dogalgazli-ce-belgeli.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -73,7 +73,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/60-kw-buhar-jene.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -84,7 +84,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/30-kw-buhar-jene.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -101,7 +101,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-genis-isitmasiz.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -112,7 +112,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kendinden-kazanli-genis.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -123,7 +123,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isitmasiz-dar-paskara.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -134,7 +134,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -145,7 +145,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-dar-pullu.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -156,7 +156,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kendinden-kaznali-dar.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -173,7 +173,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/20-20-gezer-kafa.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -184,7 +184,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/20-20-doner-kafa-transfer.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -195,7 +195,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/40-50-tas-yapistirma.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -212,7 +212,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/motorl-cakim-makinasi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -223,7 +223,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/motorlu-cakim-makinasi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -234,7 +234,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/elektrikli-cakim-makinesi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -251,7 +251,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/masa-tipi-leke.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -262,7 +262,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/dar-tipi-klasik-leke.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -279,7 +279,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/silter-super-mini-1lt.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -290,7 +290,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/magma-3bucuk.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -301,7 +301,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/SPRMN-2035-super-mini.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -312,7 +312,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/silter-SPRMN-2005.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -323,7 +323,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/SPRMN-2030-Gazella.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -334,7 +334,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/Potent-dar-masa-3bucuk-2135.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -345,7 +345,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/3bucuk--askida-SPRMN-2036.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -356,7 +356,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/silter-bitsy-2035-ciftfircali.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -372,8 +372,8 @@ export const products: ICategories[] = [
 				description: 'Mal Taşıma Arabası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: '/img/selfresize/cift-siperli-maltasima.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -383,8 +383,8 @@ export const products: ICategories[] = [
 				description: 'Mal Taşıma Arabası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: '/img/selfresize/agir-hizmet-maltasima.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -394,8 +394,8 @@ export const products: ICategories[] = [
 				description: 'Mal Taşıma Arabası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: '/img/selfresize/plastik-tekne-maltasima.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -405,8 +405,8 @@ export const products: ICategories[] = [
 				description: 'Mal Taşıma Arabası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: '/img/selfresize/tekerlekli-hasir-telsepet-maltasima.webp',
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -422,8 +422,8 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: 'img/selfresize/ustten-isikli-egim-ayarli-cc.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -433,8 +433,8 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: 'img/selfresize/sabit-egimli-cc.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -444,8 +444,8 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: 'img/selfresize/sabit-egimli-ustten-isikli-cc.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -455,8 +455,8 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: 'img/selfresize/kanatli-cc.webp',
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -472,8 +472,8 @@ export const products: ICategories[] = [
 				description: 'Makinası',
 				explanation: '',
 				img: {
-					src: '',
-					alt: ''
+					src: 'img/selfresize/yan-dikis-acma.webp',
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -484,7 +484,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/pantolon-sisirme.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -495,7 +495,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/cift-kafa-iplik-temizleme.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -506,7 +506,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kilcik-makinasi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
@@ -523,7 +523,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/silter-37220Y-potent-salganyoz.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -534,7 +534,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/buhar-kazani-su-pompasi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -545,7 +545,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/silter-stb-200G-buharli-el.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -556,7 +556,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/stb-295-gazella-slim.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -567,7 +567,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/magma-buharli-el.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -578,7 +578,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/leke-tabancasi.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -589,7 +589,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/paskara-kare-fan-motoru.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			},
 			{
@@ -600,7 +600,7 @@ export const products: ICategories[] = [
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kazanli-utu-selenoid-valf.webp',
-					alt: ''
+					alt: 'Ürün resmi'
 				}
 			}
 		]
