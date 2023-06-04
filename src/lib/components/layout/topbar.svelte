@@ -1,4 +1,6 @@
 <script>
+	import Searchandclick from "../common/searchandclick.svelte";
+
 
 </script>
 
@@ -33,18 +35,9 @@
 				</h1>
 			</a>
 		</div>
-		<div class="col-lg-6 col-6 text-left">
-			<form action="">
-				<div class="input-group">
-					<input type="text" class="form-control" placeholder="Search for products" />
-					<div class="input-group-append">
-						<span class="input-group-text bg-transparent text-primary">
-							<i class="fa fa-search" />
-						</span>
-					</div>
-				</div>
-			</form>
-		</div>
+		
+		<Searchandclick/>
+
 		<div class="col-lg-3 col-6 text-right">
 			<a href="/#" class="btn border">
 				<i class="fas fa-heart text-primary" />
