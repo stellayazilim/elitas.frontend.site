@@ -141,10 +141,10 @@ export const products: ICategories[] = [
 				name: 'Işıklı Balanserli Dar',
 				slug: 'isikli-balanserli-dar',
 				url: '/#',
-				description: 'Pullu Paskara',
+				description: 'Kollu Paskara',
 				explanation: '',
 				img: {
-					src: '/img/selfresize/isikli-balanserli-dar-pullu.webp',
+					src: '/img/selfresize/isikli-balanserli-dar-kollu.webp',
 					alt: 'Ürün resmi'
 				}
 			},
@@ -422,7 +422,7 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: 'img/selfresize/ustten-isikli-egim-ayarli-cc.webp',
+					src: '/img/selfresize/ustten-isikli-egim-ayarli-cc.webp',
 					alt: 'Ürün resmi'
 				}
 			},
@@ -433,7 +433,7 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: 'img/selfresize/sabit-egimli-cc.webp',
+					src: '/img/selfresize/sabit-egimli-cc.webp',
 					alt: 'Ürün resmi'
 				}
 			},
@@ -444,7 +444,7 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: 'img/selfresize/sabit-egimli-ustten-isikli-cc.webp',
+					src: '/img/selfresize/sabit-egimli-ustten-isikli-cc.webp',
 					alt: 'Ürün resmi'
 				}
 			},
@@ -455,7 +455,7 @@ export const products: ICategories[] = [
 				description: 'Kalite Kontrol Masası',
 				explanation: '',
 				img: {
-					src: 'img/selfresize/kanatli-cc.webp',
+					src: '/img/selfresize/kanatli-cc.webp',
 					alt: 'Ürün resmi'
 				}
 			}
@@ -472,7 +472,7 @@ export const products: ICategories[] = [
 				description: 'Makinası',
 				explanation: '',
 				img: {
-					src: 'img/selfresize/yan-dikis-acma.webp',
+					src: '/img/selfresize/yan-dikis-acma.webp',
 					alt: 'Ürün resmi'
 				}
 			},
