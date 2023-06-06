@@ -9,6 +9,7 @@
 			alt: string;
 		};
 	}
+
 	export let items: IProductItem[];
 	export let productOrCategoryName: string;
 	export let slug: string;
