@@ -94,10 +94,10 @@ export const products: ICategories[] = [
 		slug: 'paskar',
 		items: [
 			{
-				name: 'Işıklı Balanserli Geniş',
+				name: 'Işıklı Balanserli Geniş Isıtmasız',
 				slug: 'isikli-balanserli-genis',
 				url: '/#',
-				description: 'Isıtmasız Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-genis-isitmasiz.webp',
@@ -105,10 +105,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Kendinden Kazanlı',
+				name: 'Kendinden Kazanlı Geniş',
 				slug: 'kendinden-kazanli',
 				url: '/#',
-				description: 'Geniş Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kendinden-kazanli-genis.webp',
@@ -116,10 +116,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Isıtmasız',
+				name: 'Isıtmasız Dar',
 				slug: 'isitmasiz',
 				url: '/#',
-				description: 'Dar Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isitmasiz-dar-paskara.webp',
@@ -127,10 +127,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Işıklı Balanserli Kendinden Kazanlı',
+				name: 'Işıklı Balanserli Kendinden Kazanlı Geniş',
 				slug: 'isikli-balanserli-kendinden-kazanli',
 				url: '/#',
-				description: 'Geniş Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-kendinden-kazanli.webp',
@@ -138,10 +138,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Işıklı Balanserli Dar',
+				name: 'Işıklı Balanserli Dar Kollu',
 				slug: 'isikli-balanserli-dar',
 				url: '/#',
-				description: 'Kollu Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/isikli-balanserli-dar-kollu.webp',
@@ -149,10 +149,10 @@ export const products: ICategories[] = [
 				}
 			},
 			{
-				name: 'Kendinden Kazanlı',
+				name: 'Kendinden Kazanlı Dar',
 				slug: 'kendinden-kazanli',
 				url: '/#',
-				description: 'Dar Paskara',
+				description: 'Paskara',
 				explanation: '',
 				img: {
 					src: '/img/selfresize/kendinden-kaznali-dar.webp',
