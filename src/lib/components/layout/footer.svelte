@@ -59,12 +59,12 @@
 	<div class="border-top border-light mx-xl-5 py-3">
 		<div class=" px-xl-0">
 			<p class="mb-md-0 text-center text-md-left text-dark">
-				&copy; <a class="text-dark font-weight-semi-bold" href="https://www.elitasmakina.com">
+				&copy; <a class="text-dark font-weight-semi-bold" href="/">
 					Elitaş Makina.
 				</a>Her hakkı saklıdır.
-				<a class="text-dark font-weight-semi-bold" href="https:www.stellasoft.tech" target="_blank" rel="external">
+				<span class="text-dark font-weight-semi-bold">
 					Stella Yazılım
-				</a> 
+				</span> 
 				tarafından kodlandı.
 			</p>
 		</div>

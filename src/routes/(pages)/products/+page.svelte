@@ -10,8 +10,7 @@
 
  
 </script>
-<meta name="keywords" content="buharlı ütü makineleri, buhar kazanları, paskaralar, transfer baskı presleri, çakım makinaları, leke temizleme makinaları, silter ütü grubu, buharlı ütü makinası, baskı presi, çakım makinası, leke temizleme makinası">
-	<section class="p-0 m-0"  id="products">
+<section class="p-0 m-0"  id="products">
 <!-- Shop Start -->
 <div class="container-fluid pt-2">
 	<div class="row px-xl-5">
