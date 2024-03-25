@@ -37,7 +37,18 @@
 		<!-- Customized Bootstrap Stylesheet -->
 		<link defer href="/css/style.css" rel="stylesheet">
 			%sveltekit.head%
-		</head>
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7485F6WVXJ">
+		</script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-7485F6WVXJ');
+		</script>
+	</head>
 		<!--data-sveltekit-preload-data="hover" / Aşağı inecek -->
 		<body>
 			<div style="display: contents;">
